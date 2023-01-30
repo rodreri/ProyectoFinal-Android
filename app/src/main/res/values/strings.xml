@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ArañitaStyles</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_login">Activity login</string>
+
+    <!--  Navigation Header  -->
+    <string name="nav_header_title">Arañita Styles</string>
+    <string name="nav_header_subtitle">rodreri@gmail.com</string>
+
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--  Menus  -->
+    <string name="menu_home">Pedidos</string>
+    <string name="menu_pedidos">Home</string>
+    <string name="menu_realidad">Perfil</string>
+
+    <!--  Login View  -->
+    <string name="usuario">Usuario</string>
+    <string name="clave">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="inscribirse">Registrarse</string>
+
+    <string name="file_preferencia">mx.erick.araitastyles.PREFERENCE_FILE_KEY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
